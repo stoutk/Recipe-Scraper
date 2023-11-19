@@ -53,8 +53,8 @@ Contact Kenneth Stout at stoutk@oregonstate.edu for help
 
 Contributors names and contact info
 
-Kenneth Stout - stoutk@oregonstate.edu, kenneth.stout on Discord
-Kristen Haynes
+* Kenneth Stout - stoutk@oregonstate.edu, kenneth.stout on Discord
+* Kristen Haynes
 
 ## Version History
 
