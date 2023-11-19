@@ -64,11 +64,11 @@ Contributors names and contact info
 ## Acknowledgments
 
 Useful links and references
-* [Helpful README Template]https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc
-* [Automation Step by Step Selenium Python Ep. 1]https://www.youtube.com/watch?v=pcGqraAgMto
-* [Automation Step by Step Selenium Python Ep. 2]https://www.youtube.com/watch?v=y8CiSwDnQSU
-* [Galina Blokh's Python Selenium Guide]https://medium.com/analytics-vidhya/python-selenium-web-scraping-in-eight-steps-7d33b263f399
-* [Checking if an element exists, try/except]https://stackoverflow.com/questions/9567069/checking-if-an-element-exists-with-python-selenium
-* [Stale element handling, try/except]https://www.softwaretestingmaterial.com/stale-element-reference-exception-selenium-webdriver/
-* [Webdriver-Manager PyPi]https://pypi.org/project/webdriver-manager/
-* [Selenium PyPi]https://pypi.org/project/selenium/
+* ![Helpful README Template]https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc
+* ![Automation Step by Step Selenium Python Ep. 1]https://www.youtube.com/watch?v=pcGqraAgMto
+* ![Automation Step by Step Selenium Python Ep. 2]https://www.youtube.com/watch?v=y8CiSwDnQSU
+* ![Galina Blokh's Python Selenium Guide]https://medium.com/analytics-vidhya/python-selenium-web-scraping-in-eight-steps-7d33b263f399
+* ![Checking if an element exists, try/except]https://stackoverflow.com/questions/9567069/checking-if-an-element-exists-with-python-selenium
+* ![Stale element handling, try/except]https://www.softwaretestingmaterial.com/stale-element-reference-exception-selenium-webdriver/
+* ![Webdriver-Manager PyPi]https://pypi.org/project/webdriver-manager/
+* ![Selenium PyPi]https://pypi.org/project/selenium/
